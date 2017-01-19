@@ -32,6 +32,6 @@ Time Series
 
 Human Resources 
 ---------------
-* `US Department of Labor data<https://www.bls.gov/data/>`_
+* _US Department of Labor data<https://www.bls.gov/data/>__
 
 
