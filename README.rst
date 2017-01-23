@@ -19,6 +19,9 @@ Healthcare
 Image Processing
 ----------------
 
+Computational Neuroscience
+---------------------------
+* `RNA Sequencing data <http://aging.brain-map.org/download/index>`_
 
 Machine Learning
 ----------------
